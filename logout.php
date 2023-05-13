@@ -4,5 +4,5 @@ session_start();
 session_unset();
 session_destroy();
 
-header("Location: http://localhost:5173/");
+header("Location: https://portafolio-henry.000webhostapp.com/");
 exit;
